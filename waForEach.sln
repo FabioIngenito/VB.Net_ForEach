@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.16
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "waForEach", "waForEach.vbproj", "{E7C9C4EF-7B27-49FF-A8E4-4A7DB7F5AA84}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E7C9C4EF-7B27-49FF-A8E4-4A7DB7F5AA84}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E7C9C4EF-7B27-49FF-A8E4-4A7DB7F5AA84}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E7C9C4EF-7B27-49FF-A8E4-4A7DB7F5AA84}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E7C9C4EF-7B27-49FF-A8E4-4A7DB7F5AA84}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {997257FC-7E25-43E2-83D4-C5C8A5BA1CA1}
+	EndGlobalSection
+EndGlobal
